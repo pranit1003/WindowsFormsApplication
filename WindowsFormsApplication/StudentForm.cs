@@ -214,5 +214,10 @@ namespace WindowsFormsApplication
             txtStudentRollNo.Clear();
             txtStudentPer.Clear();
         }
+
+        private void txtStudentForm_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
